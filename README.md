@@ -30,7 +30,7 @@ GPUs on Google Colab.
 
 | Description      | Link |
 | ----------- | ----------- |
-| EDA Demo and Base Model Interactive Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ierv-R_v7x1V-qxIzqcekYGGN1EZzqaA?usp=sharing)|   
+| Botnet Detection Model Interactive Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ierv-R_v7x1V-qxIzqcekYGGN1EZzqaA?usp=sharing)|   
     
 </div>
      
