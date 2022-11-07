@@ -2,7 +2,7 @@
 
 <samp>
      
-# Botnet Detection Using Deep learning approaches 
+# INTRUSION DETECTION FOR INTERNET OF THINGS USING DEEP LEARNING APPROACHES 
 
 </samp>
 
